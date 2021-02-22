@@ -6,6 +6,6 @@ app.get('/', function (req, res) {
 });
 
 app.listen(8080, function () {
-  console.log('New Version Example app listening on port 8080!');
+  console.log('Version 1. Example app listening on port 8080!');
 });
 
